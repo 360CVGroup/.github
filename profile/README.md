@@ -9,5 +9,6 @@ conducting research in
 * :art: AIGC image&video generation [paper](https://arxiv.org/abs/2309.00952), [paper](https://arxiv.org/abs/2408.08189), [app](https://aigc.360.com/), [code](https://github.com/360CVGroup/Bridge_Diffusion_Model), [code](https://github.com/360CVGroup/FancyVideo)
 * :mage: Large multimodal model [paper](https://www.arxiv.org/abs/2408.12902), [code](https://github.com/360CVGroup/SEEChat), [code](https://github.com/360CVGroup/360VL), [code](https://github.com/360CVGroup/Inner-Adaptor-Architecture)
 
-
+## 🔥 Hiring
+**Internship**: we're hiring research interns in fileds of AIGC and LMM, check 👉 [JD here](../JD/intern.md)  
 
