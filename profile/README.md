@@ -10,5 +10,5 @@ conducting research in
 * :mage: Large multimodal model [paper](https://www.arxiv.org/abs/2408.12902), [code](https://github.com/360CVGroup/SEEChat), [code](https://github.com/360CVGroup/360VL), [code](https://github.com/360CVGroup/Inner-Adaptor-Architecture)
 
 ## 🔥 Hiring
-**Internship**: we're hiring research interns in fileds of AIGC and LMM, check 👉 [JD here](../JD/intern.md)  
+**Internship**: we're hiring research interns in fileds of AIGC, LMM, and inference optimization, check 👉 [JD here](../JD/intern.md)  
 
