@@ -1,2 +1,2 @@
 # .github
-Introduction to CV Team
+Introduction
