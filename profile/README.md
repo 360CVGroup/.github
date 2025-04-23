@@ -1,6 +1,6 @@
 ## :wave: Who We Are
 
-This is the 360 AI Research, our mission is to **lead in tech innovations and deliver real-world values**.     
+This is the [360 AI Research](https://research.360.cn/), our mission is to **lead in tech innovations and deliver real-world values**.     
 We focus on **"multimodal + cross-modal learning"** and **"large model + zero/few shot learning"**,    
 conducting research in
 * :last_quarter_moon: Vision-Language cross-modal learning [paper](https://arxiv.org/abs/2205.03860), [data](https://zero.so.com)
