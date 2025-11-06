@@ -5,6 +5,7 @@ We focus on **"multimodal + cross-modal learning"** and **"large model + z
 conducting research in
 * ### :mag_right: multi-modal comprehension
   * [**FG-CLIP**](https://github.com/360CVGroup/FG-CLIP): ICML2025, new generation of CLIP with strong fine grained discrimination capability
+  * [**RzenEmbed**](https://github.com/360CVGroup/RzenEmbed): Embedding model prioritized towards Multimodal RAG, overall + VisDoc double top1 on MMEB benchmark
   * [**LMM-Det**](https://github.com/360CVGroup/LMM-Det): ICCV2025, make large multimodal models excel in object detection
   * [**IAA**](https://github.com/360CVGroup/Inner-Adaptor-Architecture): AAAI2025, LMM with plugin mechanism solving catastrophic forgetting
   * [**360VL**](https://github.com/360CVGroup/360VL): Large multimodal model, 2nd-gen
