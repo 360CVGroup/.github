@@ -13,6 +13,7 @@ conducting research in
   * [**OVD**](https://arxiv.org/abs/2309.00227): KDD2023, open-world object detection, we also co-hosted [*open vocabulary detection contest 2023*](https://360cvgroup.github.io/OVD_Contest/) with [CSIG(中国图象图形学学会)](https://www.csig.org.cn/)
   * [**Zero**](https://zero.so.com): ACM MM2023, large scale open-sourced Chinese cross-modal data and benchmark
 * ### :art: multi-modal generation
+  * [**EVTAR**](https://github.com/360CVGroup/EVTAR): End2End Virtual Try-on with Visual Reference
   * [**PlanGen**](https://github.com/360CVGroup/PlanGen): ICCV2025, unified layout planning and image generation
   * [**Qihoo-T2X**](https://github.com/360CVGroup/Qihoo-T2X): ICLR2025, efficient DiT architecture for text2any tasks
   * [**BDM**](https://github.com/360CVGroup/Bridge_Diffusion_Model): AAAI2025, Chinese-native image generation while compatible with SD eco-system, 1st-gen
