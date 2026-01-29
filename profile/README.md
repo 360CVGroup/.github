@@ -6,6 +6,7 @@ conducting research in
 * ### :mag_right: multi-modal comprehension
   * [**FG-CLIP**](https://github.com/360CVGroup/FG-CLIP): ICML2025, new generation of CLIP with strong fine grained discrimination capability
   * [**RzenEmbed**](https://github.com/360CVGroup/RzenEmbed): Embedding model prioritized towards Multimodal RAG, overall + VisDoc double top1 on MMEB benchmark
+  * [**GAG**](https://github.com/360CVGroup/GAG): Generation Augmented Generation, resolving fragmented knowledge defect of RAG 
   * [**LMM-Det**](https://github.com/360CVGroup/LMM-Det): ICCV2025, make large multimodal models excel in object detection
   * [**IAA**](https://github.com/360CVGroup/Inner-Adaptor-Architecture): AAAI2025, LMM with plugin mechanism solving catastrophic forgetting
   * [**360VL**](https://github.com/360CVGroup/360VL): Large multimodal model, 2nd-gen
@@ -13,6 +14,7 @@ conducting research in
   * [**OVD**](https://arxiv.org/abs/2309.00227): KDD2023, open-world object detection, we also co-hosted [*open vocabulary detection contest 2023*](https://360cvgroup.github.io/OVD_Contest/) with [CSIG(中国图象图形学学会)](https://www.csig.org.cn/)
   * [**Zero**](https://zero.so.com): ACM MM2023, large scale open-sourced Chinese cross-modal data and benchmark
 * ### :art: multi-modal generation
+  * [**FLUX-Makeup**](https://github.com/360CVGroup/FLUX-Makeup): Transfer face makeup with high fidelity, SoTA and production-ready 
   * [**EVTAR**](https://github.com/360CVGroup/EVTAR): End2End Virtual Try-on with Visual Reference
   * [**PlanGen**](https://github.com/360CVGroup/PlanGen): ICCV2025, unified layout planning and image generation
   * [**Qihoo-T2X**](https://github.com/360CVGroup/Qihoo-T2X): ICLR2025, efficient DiT architecture for text2any tasks
