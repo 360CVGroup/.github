@@ -15,7 +15,7 @@ conducting research in
   * [**Zero**](https://zero.so.com): ACM MM2023, large scale open-sourced Chinese cross-modal data and benchmark
 * ### :art: multi-modal generation
   * [**FLUX-Makeup**](https://github.com/360CVGroup/FLUX-Makeup): Transfer face makeup with high fidelity, SoTA and production-ready 
-  * [**EVTAR**](https://github.com/360CVGroup/EVTAR): End2End Virtual Try-on with Visual Reference
+  * [**RefVTON**](https://github.com/360CVGroup/RefVTON): CVPR2026, End2End Virtual Try-on with Visual Reference
   * [**PlanGen**](https://github.com/360CVGroup/PlanGen): ICCV2025, unified layout planning and image generation
   * [**Qihoo-T2X**](https://github.com/360CVGroup/Qihoo-T2X): ICLR2025, efficient DiT architecture for text2any tasks
   * [**BDM**](https://github.com/360CVGroup/Bridge_Diffusion_Model): AAAI2025, Chinese-native image generation while compatible with SD eco-system, 1st-gen
