@@ -16,7 +16,7 @@ conducting research in
 * ### :art: multi-modal generation
   * [**NAMI-T2I**](https://github.com/360CVGroup/NAMI-T2I): CVPR2026, efficient DiT architecture for T2I 
   * [**FLUX-Makeup**](https://github.com/360CVGroup/FLUX-Makeup): Transfer face makeup with high fidelity, SoTA and production-ready 
-  * [**RefVTON**](https://github.com/360CVGroup/RefVTON): CVPR2026, RefTon: Reference person shot assist virtual Try-On
+  * [**RefTon**](https://github.com/360CVGroup/RefVTON): CVPR2026, Reference person shot assist virtual Try-On
   * [**PlanGen**](https://github.com/360CVGroup/PlanGen): ICCV2025, unified layout planning and image generation
   * [**Qihoo-T2X**](https://github.com/360CVGroup/Qihoo-T2X): ICLR2025, efficient DiT architecture for text2any tasks
   * [**BDM**](https://github.com/360CVGroup/Bridge_Diffusion_Model): AAAI2025, Chinese-native image generation while compatible with SD eco-system, 1st-gen
