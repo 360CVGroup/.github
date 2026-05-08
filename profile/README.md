@@ -4,7 +4,7 @@ This is the [360 AI Research](https://research.360.cn/), our mission is to **lea
 We focus on **"multimodal + cross-modal learning"** and **"large model + zero/few shot learning"**,    
 conducting research in
 * ### :mag_right: multi-modal comprehension
-  * [**FG-CLIP**](https://github.com/360CVGroup/FG-CLIP): ICML2025, new generation of CLIP with strong fine grained discrimination capability
+  * [**FG-CLIP**](https://github.com/360CVGroup/FG-CLIP): ICML2026 and ICML2025, new generation of CLIP with strong fine grained discrimination capability
   * [**RzenEmbed**](https://github.com/360CVGroup/RzenEmbed): Embedding model prioritized towards Multimodal RAG, overall + VisDoc double top1 on MMEB benchmark
   * [**GAG**](https://github.com/360CVGroup/GAG): Generation Augmented Generation, resolving fragmented knowledge defect of RAG 
   * [**LMM-Det**](https://github.com/360CVGroup/LMM-Det): ICCV2025, make large multimodal models excel in object detection
