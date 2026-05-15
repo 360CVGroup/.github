@@ -14,6 +14,7 @@ conducting research in
   * [**OVD**](https://arxiv.org/abs/2309.00227): KDD2023, open-world object detection, we also co-hosted [*open vocabulary detection contest 2023*](https://360cvgroup.github.io/OVD_Contest/) with [CSIG(中国图象图形学学会)](https://www.csig.org.cn/)
   * [**Zero**](https://zero.so.com): ACM MM2023, large scale open-sourced Chinese cross-modal data and benchmark
 * ### :art: multi-modal generation
+  * [**RevealLayer**](https://github.com/360CVGroup/RevealLayer): ICML2026, CONTROLLABLE layer-decomposition/object-wise editing/matting 
   * [**NAMI-T2I**](https://github.com/360CVGroup/NAMI-T2I): CVPR2026, efficient DiT architecture for T2I 
   * [**FLUX-Makeup**](https://github.com/360CVGroup/FLUX-Makeup): Transfer face makeup with high fidelity, SoTA and production-ready 
   * [**RefTon**](https://github.com/360CVGroup/RefVTON): CVPR2026, Reference person shot assist virtual Try-On
